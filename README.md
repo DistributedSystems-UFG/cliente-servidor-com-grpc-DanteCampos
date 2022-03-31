@@ -1,4 +1,4 @@
-# Calculadora distribuída com RPyC
+# Calculadora distribuída com gRPC
 
 Servidor:
 Disponibiliza as operações add(a,b), mult(a,b) e pow(a,b) para adição, multiplicação e potenciação.
